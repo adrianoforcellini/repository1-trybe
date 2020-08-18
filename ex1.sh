@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Sheel  script é demais!" #EU SOU TRYBEEERR!!!!  (EEEEEEEEEEEEEEEEEEEE.........)
+echo "Sheel  script é demais!" #EU SOU TRYBEEERR!!!!  (EEEEEEEEEEEEEEEEEEEE.........) VOU TEEER MMUUUUIITOOOO SUUUCESSOOOO NA PROGRAMAÇÃO!!!!!
